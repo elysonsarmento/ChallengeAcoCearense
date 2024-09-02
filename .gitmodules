@@ -1,0 +1,3 @@
+[submodule "ChallengePoint"]
+	path = ChallengePoint
+	url = git@github.com:elysonsarmento/ChallengePoint.git
