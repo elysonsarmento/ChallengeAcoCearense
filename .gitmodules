@@ -1,3 +1,9 @@
 [submodule "ChallengePoint"]
 	path = ChallengePoint
 	url = git@github.com:elysonsarmento/ChallengePoint.git
+[submodule "git@github.com:elysonsarmento/challenge_web.git"]
+	path = git@github.com:elysonsarmento/challenge_web.git
+	url = C:\\Users\\Elyson\\Documents\\desafio\\challenge_web
+[submodule "challenge_web"]
+	path = challenge_web
+	url = git@github.com:elysonsarmento/challenge_web.git
