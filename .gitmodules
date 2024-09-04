@@ -4,3 +4,6 @@
 [submodule "git@github.com:elysonsarmento/challenge_web.git"]
 	path = git@github.com:elysonsarmento/challenge_web.git
 	url = C:\\Users\\Elyson\\Documents\\desafio\\challenge_web
+[submodule "challenge_front"]
+	path = challenge_front
+	url = https://github.com/elysonsarmento/challenge_front
